@@ -23,13 +23,16 @@ Formulario de registro empresarial:  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131434334-cdc33982-52f8-4e38-aacb-1fee50380fee.png)  <br />
 
 Visualización de perfil y visualización mis publicaciones  <br />
-![image](https://user-images.githubusercontent.com/66130599/131434461-ef431266-a3c8-48ab-9600-6aa49a3a7e96.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/138479922-76aefdf8-7b0e-4675-968f-7bb1421ce2b6.png)  <br />
+
+Interfaz de Gestión de mis Publicaciones  <br />
+![image](https://user-images.githubusercontent.com/66130599/138480147-ac02d1be-b0cd-44a6-8528-06b438f20ffc.png)  <br />
 
 Componente para realización de publicación por parte del usuario empresa  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131434892-0ca20cb6-e49f-4593-a62a-cac96759d95d.png)  <br />
 
 Componente para visualización de postulación a una publicación por parte de cuenta empresarial  <br />
-![image](https://user-images.githubusercontent.com/66130599/131435212-dc2dfb85-3fc1-4f6b-94ee-9481a5bc92e4.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/138479823-460de6c1-2d57-4b0e-b6b7-c1b306fca89a.png)  <br />
 
 Formulario para cambio de estado de postulación  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131435368-9f694759-4882-4d4e-b608-9861efccdde8.png)  <br />
@@ -50,16 +53,16 @@ Visualización de detalle  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131435964-fa8104ba-5d68-488c-899c-307b84229066.png)  <br />
 
 Validación de existencia de curriculum en la base - opción de llenar curriculum  <br />
-![image](https://user-images.githubusercontent.com/66130599/131436079-0aeafdf8-07bf-43b1-a4a5-2213f7e946a6.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/138479589-0a5712af-d2a3-45ee-a5db-22f73f536057.png)  <br />
 
 Formulario de registro de curriculum  <br />
-![image](https://user-images.githubusercontent.com/66130599/131436112-34b08cce-eecd-40a7-85f1-4fd5b4634e67.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/138479132-ebf740e1-3b4a-4c76-8a51-f73207d9810b.png)  <br />
 
 Formulario de actualización de datos de cuenta estudiante  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131436161-2c497252-08c5-4c29-947a-01a666913394.png)  <br />
 
 Interfaz de foro para visualización y registro de comentario  <br />
-![image](https://user-images.githubusercontent.com/66130599/131436217-5bc6bebc-3ab2-49fa-81be-9c3eb35184bb.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/138479233-6763a872-0868-4085-af97-33f0aab9b14b.png)  <br />
 
 Interfaz administrativa  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131436530-a76f1fc3-4107-4787-8aee-e57166f61e07.png)  <br />
