@@ -11,7 +11,7 @@ Link del Video en YouTube sobre la funcionalidad: https://youtu.be/_TX22Vcj-rQ  
 
 EXPLICACIÓN - CAPTURAS DE PANTALLA SOBRE EL FUNCIONAMIENTO:  <br />
 Inicio de sesión de los usuarios:  <br />
-![image](https://user-images.githubusercontent.com/66130599/131433929-84f91476-ab44-4508-96e2-28ff2f293457.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/144876715-3d9c0bec-2ce7-415a-97f8-96db3eff2531.png)  <br />
 
 Si el usuario no se encuentra autenticado, puede registrarse en la base seleccionando el rol que va a cumplir en la aplicación.  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131434094-dc94183d-01c4-4b6c-bd8f-c3562471c39d.png)  <br />
@@ -56,7 +56,8 @@ Validación de existencia de curriculum en la base - opción de llenar curriculu
 ![image](https://user-images.githubusercontent.com/66130599/138479589-0a5712af-d2a3-45ee-a5db-22f73f536057.png)  <br />
 
 Formulario de registro de curriculum  <br />
-![image](https://user-images.githubusercontent.com/66130599/138479132-ebf740e1-3b4a-4c76-8a51-f73207d9810b.png)  <br />
+![image](https://user-images.githubusercontent.com/66130599/144876606-f6e2b91e-9129-4b0d-bf7a-00739d8d410f.png)
+  <br />
 
 Formulario de actualización de datos de cuenta estudiante  <br />
 ![image](https://user-images.githubusercontent.com/66130599/131436161-2c497252-08c5-4c29-947a-01a666913394.png)  <br />
