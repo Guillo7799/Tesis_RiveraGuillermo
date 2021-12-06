@@ -1,6 +1,6 @@
 # Tesis_RiveraGuillermo
 
-Repositorio del proyecto de titulación: Desarrollo de una Aplicación Web para ofertar horas de prácticas pre profesionales.  <br />
+Repositorio del proyecto de titulación: Desarrollo de una Aplicación Web que permita ofertar horas de prácticas pre profesionales.  <br />
 Autor: Guillermo Rivera  <br />
 Universidad: Escuela Politécnica Nacional  <br />
 Carrera: Tecnología Superior en Desarrollo de Software  <br />
