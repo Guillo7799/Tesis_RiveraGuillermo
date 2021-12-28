@@ -7,7 +7,7 @@ Carrera: Tecnología Superior en Desarrollo de Software  <br />
 
 Repositorio Back-end: https://github.com/Guillo7799/BackEnd_TESIS.git  <br />
 Repositorio Front-end: https://github.com/Guillo7799/FrontEnd_TESIS.git  <br />
-Link del Video en YouTube sobre la funcionalidad: https://youtu.be/_TX22Vcj-rQ  <br />
+Link del Video en YouTube sobre la funcionalidad: https://youtu.be/K8QPnpVhlL8  <br />
 
 EXPLICACIÓN - CAPTURAS DE PANTALLA SOBRE EL FUNCIONAMIENTO:  <br />
 Inicio de sesión de los usuarios:  <br />
